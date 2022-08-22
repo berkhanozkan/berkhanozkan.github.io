@@ -3,24 +3,19 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hi there,
+
+Thank you for checking out my website. 
+
+My name is Hasan Berkhan Özkan. I live in Istanbul. 
+I am Mobile and Web App Developer. I have been coding since 2015 and still trying to learn new technologies. You can check out some of my work at the <a href="/portfolio">Portolio</a> page. 
+
+I am professionally interested in mathematic and software technologies. I always believe that mathematic is key of the software. I like spending my time with reading articles and coding. I also like playing mind games, listening music and swimming.
+
+This is the short info about me.If you want more, click <a href="/assets/cv.pdf">here</a> to download CV. 
+Thank you.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
-
-<br/>
-
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Hire Me
+I'm interested in freelance opportunities. If you want to start a project, <a href="mailto:ozkanberkhan@gmail.com">contact me</a>
