@@ -13,7 +13,7 @@ I am Mobile and Web App Developer. I have been coding since 2015 and still tryin
 
 I am professionally interested in mathematic and software technologies. I always believe that mathematic is key of the software. I like spending my time with reading articles and coding. I also like playing mind games, listening music and swimming.
 
-This is the short info about me.If you want more, click <a href="/assets/cv.pdf">here</a> to download CV.
+This is the short info about me.If you want more, download CV.
 Thank you.
 
 <br/>

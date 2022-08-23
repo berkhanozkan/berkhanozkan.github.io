@@ -8,6 +8,7 @@ google_analytics: # Google analytic
 author:
   name: Hasan Berkhan Özkan
   desc: Software Developer | Mathematical Engineer
+  cv: assets/cv.pdf
   email: ozkanberkhan@gmail.com
   selfie: assets/img/profil.jpeg
 
